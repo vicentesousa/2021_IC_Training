@@ -3,6 +3,7 @@
 - Bolsista 02: DARIO GUILHERME DE MACEDO
 - Orientador: Vicente Angelo de Sousa Junior
 - Co-orientadores: Daniel Rodrigues de Luna e Tarciana Cabral de Brito Guerra 
+- Companheiros de grupo: Lucas Ismael Campos Medeiros, Ravan Novaes de Oliveira e Sildolfo Francisco Gomes Neto 
 
 ### Metas 2021.1
 - Preparação de ambiente de prototipagem
