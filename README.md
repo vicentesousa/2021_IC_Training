@@ -14,7 +14,7 @@
 - E-mail/conta SIGAA: abrir chamado para mudar login da conta para <seu nome>.gppcom@ufrn.edu.br (e.g. ricardo.gppcom@ufrn.edu.br). Avisar ao prof. Vicente Sousa assim que o e-mail for mudado;
 - Criar uma assinatura do e-mail no padrão do GppCom, como no exemplo a seguir:
 
----------------------------------------------
+$---------------------------------------------$
 Lucas Ismael Campos Medeiros
 Graduando em Engenharia de Telecomunicações
 Universidade Federal do Rio Grande do Norte (UFRN)
