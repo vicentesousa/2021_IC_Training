@@ -53,7 +53,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 
 ### Frente 1: Preparação de ambiente de prototipagem:**
 - Se habituar Linux, com Github, com jupyter notebook, com ns-3 e com o Eclipse 
-- **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o [Hands-on](https://github.com/vicentesousa/ns3-intermediate-training/blob/master/fase_00/h00_VM_18.04.ipynb)
+- **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o [link](https://github.com/vicentesousa/ns3-intermediate-training/blob/master/fase_00/h00_VM_18.04.ipynb)
    - Ricardo:**Prazo:** 12/04/2021. **Feito:** ????.  
    - Dario: novo. **Prazo:** 12/04/2021. **Feito:** ????.  
 - **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
@@ -73,12 +73,12 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
    - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
-   - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
-   - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
-   - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
-   - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
-      - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
-      - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
+      - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
+      - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
+      - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
+      - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
+         - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
+         - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
    - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoggleDrive>/GppCom_Entrance_Training\technical_material\books>```.
    - **TODO 2.3 (P3):** Hands-on 01: Desafios relacionados ao exemplo first.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    - **TODO 2.4 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
