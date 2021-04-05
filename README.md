@@ -1,16 +1,18 @@
-# Treinamento dos novos bolsistas de 2021
+# Bolsistas de IC 2021
+- Bolsista 01: RICARDO QUEIROZ DE FARIAS HENRIQUE SILVA
+- Bolsista 02: DARIO GUILHERME DE MACEDO
 
 ### Metas 2021.1
 - Preparação de ambiente de prototipagem
-- Conhecer o ns-3 (tutorial)
+- Conhecer o ns-3 
 - Avançar no conhecimento de redes de comunicações móveis (começar com o Wi-Fi)
 
 # Roteiro de atividades
 
 As atividades dos bolsistas serão divididas em três frentes:
-- Frente 01: Preparação de ambiente de prototipagem
-- Frente 02: prototipagem com ns-3
-- Frente 03: Redes de Comunicações Móveis:
+- **Frente 01:**  Preparação de ambiente de prototipagem
+- **Frente 02:** prototipagem com ns-3
+- **Frente 03:** Redes de Comunicações Móveis
 
 As Seções a seguir são usadas para a definição e acompanhamento das atividades.
 
