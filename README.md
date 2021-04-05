@@ -73,6 +73,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
    - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião.
+   ** Material Principal:** [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
    - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no tutorial do ns-3), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta NS3_training.
