@@ -79,10 +79,10 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
          - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
          - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
-   - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoggleDrive>/GppCom_Entrance_Training\technical_material\books>```.
+   - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
    - **TODO 2.3 (P3):** Hands-on 01: Desafios relacionados ao exemplo first.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    - **TODO 2.4 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
-   - **TODO 2.5:** Fazer e entender os exemplos third.cc até seventh.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoggleDrive>/GppCom_Entrance_Training\technical_material\books>```. 
+   - **TODO 2.5:** Fazer e entender os exemplos third.cc até seventh.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```. 
    - **TODO 2.6:** Hands-on 03: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    -  **TODO 2.7:** Hands-on 04: Desafios relacionados ao exemplo third.cc parte 2 [link](https://github.com/vicentesousa/ns3-intermediate-training)
    -  **TODO 2.8:** Hands-on 05: Desafios relacionados ao exemplo fifth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
@@ -90,14 +90,14 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 3: Redes de Comunicações Móveis:
 - Conhecendo o Wi-Fi
 - **Roteiro de leituras:**
-   - **TODO 3.1 (P2):** Ler Seções 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.1 (P2):** Ler Seção 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 26/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 26/04/2021. **Feito:** ????.
 
-   - **TODO 3.2 (P3):** Ler Seções 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** TBD. **Feito:** ????.  
       - Dario: **Prazo:** TBD. **Feito:** ????.
  
-   - **TODO 3.3 (P3):** Ler Seções 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.3 (P3):** Ler Seção 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** TBD. **Feito:** ????.  
       - Dario: **Prazo:** TBD. **Feito:** ????.
