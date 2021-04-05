@@ -41,7 +41,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
-   - **TODO 2.1:** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas
+   - **TODO 2.1:** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião.
       - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
    - **TODO 2.2:** Fazer e entender os exemplos first.cc até third.cc (acompanhar a leitura no tutorial do ns-3), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta NS3_training.
@@ -55,6 +55,14 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 3: Redes de Comunicações Móveis:
 - Conhecendo o Wi-Fi
 - **Roteiro de leituras:**
-   - **TODO 3.1:** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas
+   - **TODO 3.1:** Ler Seções 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 26/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 26/04/2021. **Feito:** ????.
+
+   - **TODO 3.2:** Ler Seções 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+      - Ricardo: **Prazo:** TBD. **Feito:** ????.  
+      - Dario: **Prazo:** TBD. **Feito:** ????.
+ 
+   - **TODO 3.3:** Ler Seções 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+      - Ricardo: **Prazo:** TBD. **Feito:** ????.  
+      - Dario: **Prazo:** TBD. **Feito:** ????.
