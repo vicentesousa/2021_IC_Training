@@ -27,7 +27,14 @@ Fazer automaticamente no gmail de acordo com a figura a seguir:
 
 ![fig_email](e-mail_signature.png)
 
-- 
+- Comunicação corporativa
+   - Mandar e-mail para lista quando o assunto for de interesse de todos: labsim-ufrn@googlegroups.com
+   - Usar Whatsapp para notícias rápidas e compartilhamento de material técnico/oportunidades de cunho geral. E.g., avisar que mandou e-mail importante 
+   - Grupos do Whatsapp
+      - Grupo geral LabSim/GppCom: com todos os ex-bolsistas
+      - Grupo vinculado a linha de pesquisa somente com o prof. Vicente e os participantes do grupo
+   - **Evitar se comunicar (whatsapp, e-mail) somente com o prof. Vicente ou com um membro da equipe (TODOS DA EQUIPE ESPECIFICA PRECISAM SER COPIADOS EM TODAS AS MENSAGENS. Até as mensagens bobas!!!!)** 
+
 
 # Roteiro de atividades
 
