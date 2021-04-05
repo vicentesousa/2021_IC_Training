@@ -4,13 +4,14 @@
 - Orientador: Vicente Angelo de Sousa Junior
 - Co-orientadores: Daniel Rodrigues de Luna e Tarciana Cabral de Brito Guerra 
 
-- Recomendações gerais do GppCom
-
-
 ### Metas 2021.1
 - Preparação de ambiente de prototipagem
 - Conhecer o ns-3 
 - Avançar no conhecimento de redes de comunicações móveis (começar com o Wi-Fi)
+
+
+### Recomendações gerais do GppCom
+- 
 
 # Roteiro de atividades
 
