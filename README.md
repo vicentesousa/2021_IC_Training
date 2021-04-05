@@ -11,8 +11,8 @@
 
 
 ### Recomendações gerais do GppCom
-- E-mail/conta SIGAA: abrir chamado para mudar login da conta para ```<seu nome>.gppcom@ufrn.edu.br``` (e.g. ricardo.gppcom@ufrn.edu.br). Avisar ao prof. Vicente Sousa assim que o e-mail for mudado;
-- Criar uma assinatura do e-mail no padrão do GppCom, como no exemplo a seguir:
+
+- No seu e-mail principal Criar uma assinatura do e-mail no padrão do GppCom, como no exemplo a seguir:
 
 ```
 ---------------------------------------------
@@ -36,6 +36,8 @@ Fazer automaticamente no gmail de acordo com a figura a seguir:
       - Grupo vinculado a linha de pesquisa somente com o prof. Vicente e os participantes do grupo
    - **Evitar se comunicar (whatsapp, e-mail) somente com o prof. Vicente ou com um membro da equipe (TODOS DA EQUIPE ESPECIFICA PRECISAM SER COPIADOS EM TODAS AS MENSAGENS. Até as mensagens bobas!!!!)** 
 
+- Criar conta do github com seu e-mail ```ufrn.edu.br```;
+- Direcionar (forward) os e-mails da sua conta ```ufrn.edu.br``` para o seu e-mail principal do Gmail, caso já não seja o ```ufrn.edu.br```.
 
 # Roteiro de atividades
 
