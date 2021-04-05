@@ -11,7 +11,7 @@
 
 
 ### Recomendações gerais do GppCom
-- E-mail/conta SIGAA: abrir chamado para mudar login da conta para <seu nome>.gppcom@ufrn.edu.br (e.g. ricardo.gppcom@ufrn.edu.br). Avisar ao prof. Vicente Sousa assim que o e-mail for mudado;
+- E-mail/conta SIGAA: abrir chamado para mudar login da conta para ```<seu nome>.gppcom@ufrn.edu.br``` (e.g. ricardo.gppcom@ufrn.edu.br). Avisar ao prof. Vicente Sousa assim que o e-mail for mudado;
 - Criar uma assinatura do e-mail no padrão do GppCom, como no exemplo a seguir:
 
 ```
@@ -72,8 +72,11 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
-   - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião.
-   ** Material Principal:** [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
+   - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
+   - ** Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
+   - ** Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
+   - ** Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
+   - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
    - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no tutorial do ns-3), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta NS3_training.
