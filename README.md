@@ -22,6 +22,10 @@ Natal, Rio Grande do Norte
 Email: lucasismael.gppcom@ufrn.edu.br | lucasismaelcm@gmail.com
 Tel: (84) 9 9669-2432
 
+Fazer automaticamente no gmail de acordo com a figura a seguir:
+
+![fig_email](e-mail_signature.png)
+
 - 
 
 # Roteiro de atividades
