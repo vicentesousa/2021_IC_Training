@@ -1,10 +1,9 @@
 # Treinamento dos novos bolsistas de 2021
 
 ### Metas 2021.1
-
-# Preparação de ambiente de prototipagem
-# Conhecer o ns-3 (tutorial)
-# Avançar no conhecimento de redes de comunicações móveis (começar com o Wi-Fi)
+- Preparação de ambiente de prototipagem
+- Conhecer o ns-3 (tutorial)
+- Avançar no conhecimento de redes de comunicações móveis (começar com o Wi-Fi)
 
 # Roteiro de atividades
 
