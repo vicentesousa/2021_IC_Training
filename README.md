@@ -1,6 +1,11 @@
 # Bolsistas de IC 2021
 - Bolsista 01: RICARDO QUEIROZ DE FARIAS HENRIQUE SILVA
 - Bolsista 02: DARIO GUILHERME DE MACEDO
+- Orientador: Vicente Angelo de Sousa Junior
+- Co-orientadores: Daniel Rodrigues de Luna e Tarciana Cabral de Brito Guerra 
+
+- Recomendações gerais do GppCom
+
 
 ### Metas 2021.1
 - Preparação de ambiente de prototipagem
