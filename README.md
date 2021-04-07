@@ -56,7 +56,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 
 ### Frente 1: Preparação de ambiente de prototipagem:**
 - Se habituar Linux, com Github, com jupyter notebook, com ns-3 e com o Eclipse 
-- **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o [link](https://github.com/vicentesousa/ns3-intermediate-training/blob/master/fase_00/h00_VM_18.04.ipynb)
+- **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o (https://github.com/vicentesousa/2021_IC_Training/blob/master/h00_VM_18.04.ipynb)
    - Ricardo:**Prazo:** 12/04/2021. **Feito:** ????.  
    - Dario: novo. **Prazo:** 12/04/2021. **Feito:** ????.  
 - **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
