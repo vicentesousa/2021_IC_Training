@@ -75,13 +75,13 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
-   - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 3 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
+   - **TODO 2.1 (P2):** Ler capítulos 1, 2 e 4 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
-         - Ricardo: **Prazo:** 19/04/2021. **Feito:** ????.  
-         - Dario: **Prazo:** 19/04/2021. **Feito:** ????.  
+         - Ricardo: **Prazo:** 23/04/2021. **Feito:** ????.  
+         - Dario: **Prazo:** 23/04/2021. **Feito:** ????.  
    - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
    - **TODO 2.3 (P3):** Hands-on 01: Desafios relacionados ao exemplo first.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    - **TODO 2.4 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
@@ -94,8 +94,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - Conhecendo o Wi-Fi
 - **Roteiro de leituras:**
    - **TODO 3.1 (P2):** Ler Seção 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
-      - Ricardo: **Prazo:** 26/04/2021. **Feito:** ????.  
-      - Dario: **Prazo:** 26/04/2021. **Feito:** ????.
+      - Ricardo: **Prazo:** 30/04/2021. **Feito:** ????.  
+      - Dario: **Prazo:** 30/04/2021. **Feito:** ????.
 
    - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** TBD. **Feito:** ????.  
@@ -104,3 +104,10 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 3.3 (P3):** Ler Seção 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** TBD. **Feito:** ????.  
       - Dario: **Prazo:** TBD. **Feito:** ????.
+   
+   - **TODO 3.4 (P4):** Ler Seção 2.4 MAC Layer da tese **thesis-bingmann-ns-3-wifi** (<GDrive>\GppCom_Entrance_Training\technical_material)
+      - Ricardo: **Prazo:** TBD. **Feito:** ????.  
+      - Dario: **Prazo:** TBD. **Feito:** ????.
+      
+
+
