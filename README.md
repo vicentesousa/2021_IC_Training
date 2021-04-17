@@ -67,8 +67,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - Hands-on 02: Básico do Jupyter Notebook
       - Ricardo: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;  
       - Dario: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;  
-- **TODO 1.4** (TBD): Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
-   - Hands-on 03: Instalando o ns-3 e integrando com o Eclipse
+- **TODO 1.4** (TBD): Hands-on 03: Instalando o ns-3 e integrando com o Eclipse (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_03/f00_hd03.ipynb)
       - Ricardo: **Prazo:** TBD (to be defined). **Feito:** ????.  
       - Dario: **Prazo:** (to be defined). **Feito:** ????.  
   
