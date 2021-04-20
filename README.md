@@ -59,7 +59,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o (https://github.com/vicentesousa/2021_IC_Training/blob/master/h00_VM_18.04.ipynb)
    - Ricardo:**Prazo:** 12/04/2021. **Feito:** 05/04/2021.
    - Dario: novo. **Prazo:** 12/04/2021. **Feito:** 13/04/2021. 
-- **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
+- **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_01/f00_hd01.ipynb)
    - Hands-on 01: Github - o básico sobre repositórios
       - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;   
       - Dario: **Prazo:** 12/04/2021. **Feito:** 13/04/2021. **Deadline dos Updates:** 23/04/2021;   
