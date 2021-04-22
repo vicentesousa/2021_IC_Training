@@ -57,18 +57,17 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 1: Preparação de ambiente de prototipagem:**
 - Se habituar Linux, com Github, com jupyter notebook, com ns-3 e com o Eclipse 
 - **TODO 1.1 (P1)**: Criação de máquina virtual Linux: seguir o (https://github.com/vicentesousa/2021_IC_Training/blob/master/h00_VM_18.04.ipynb)
-   - Ricardo:**Prazo:** 12/04/2021. **Feito:** ????.
-   - Dario: novo. **Prazo:** 12/04/2021. **Feito:** ????. 
-- **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
+   - Ricardo:**Prazo:** 12/04/2021. **Feito:** 05/04/2021.
+   - Dario: novo. **Prazo:** 12/04/2021. **Feito:** 13/04/2021. 
+- **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_01/f00_hd01.ipynb)
    - Hands-on 01: Github - o básico sobre repositórios
-      - Ricardo: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;   
-      - Dario: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;   
-- **TODO 1.3 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
+      - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;   
+      - Dario: **Prazo:** 12/04/2021. **Feito:** 13/04/2021. **Deadline dos Updates:** 23/04/2021;   
+- **TODO 1.3 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_02/f00_hd02.ipynb)
    - Hands-on 02: Básico do Jupyter Notebook
-      - Ricardo: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;  
-      - Dario: **Prazo:** 12/04/2021. **Feito:** ????. **Deadline dos Updates:** 23/04/2021;  
-- **TODO 1.4** (TBD): Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/ns3-intermediate-training)
-   - Hands-on 03: Instalando o ns-3 e integrando com o Eclipse
+      - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;  **Feito:** 20/04/2021.
+      - Dario: **Prazo:** 12/04/2021. **Feito:** 14/04/2021. **Deadline dos Updates:** 23/04/2021;  
+- **TODO 1.4** (TBD): Hands-on 03: Instalando o ns-3 e integrando com o Eclipse (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_03/f00_hd03.ipynb)
       - Ricardo: **Prazo:** TBD (to be defined). **Feito:** ????.  
       - Dario: **Prazo:** (to be defined). **Feito:** ????.  
   
