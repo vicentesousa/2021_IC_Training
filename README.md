@@ -79,8 +79,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
-         - Ricardo: **Prazo:** 23/04/2021. **Feito:** ????.  
-         - Dario: **Prazo:** 23/04/2021. **Feito:** ????.  
+         - Ricardo: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** ????.  
+         - Dario: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** ????. **Feito:** ????.  
    - **TODO 2.2 (P3):** Fazer e entender os exemplos first.cc até second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** ????.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** ????. 
