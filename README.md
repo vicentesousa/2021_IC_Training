@@ -69,7 +69,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 12/04/2021. **Feito:** 14/04/2021. **Deadline dos Updates:** 23/04/2021;  
 - **TODO 1.4** (TBD): Hands-on 03: Instalando o ns-3 e integrando com o Eclipse (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_03/f00_hd03.ipynb)
    - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
-   - Dario: **Prazo:** 30/04/2021. **Feito:** ????.  
+   - Dario: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
   
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
