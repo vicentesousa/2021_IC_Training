@@ -102,7 +102,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - **Roteiro de leituras:**
    - **TODO 3.1 (P2):** Ler Seção 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
-      - Dario: **Prazo:** 30/04/2021. **Feito:** ????.
+      - Dario: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.
 
    - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** TBD. **Feito:** ????.  
