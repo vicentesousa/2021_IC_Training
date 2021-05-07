@@ -81,7 +81,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
          - Ricardo: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** 29/04/2021.  
          - Dario: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** 30/04/2021.
-   - **TODO 2.2 (P3):** Fazer e entender o exemplo first.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
+   - **TODO 2.2 (P3):** Fazer e entender o exemplo first.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\ns-3_course>```.
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** 30/04/2021
    - **TODO 2.3 (P3):** Hands-on 01: Desafios relacionados ao exemplo first.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
