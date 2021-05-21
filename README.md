@@ -93,19 +93,19 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 04/06/2021. **Feito:**   
-      - Dario: **Prazo:** 04/06/2021. **Feito: **    
+      - Dario: **Prazo:** 04/06/2021. **Feito:**    
    - **TODO 2.5 (P3):** Fazer e entender o exemplo second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 04/06/2021. **Feito:**   
-      - Dario: **Prazo:** 04/06/2021. **Feito: **    
+      - Dario: **Prazo:** 04/06/2021. **Feito:**    
    -  **TODO 2.6 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 04/06/2021. **Feito:**   
-      - Dario: **Prazo:** 04/06/2021. **Feito: **      
+      - Dario: **Prazo:** 04/06/2021. **Feito:**      
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 04/06/2021. **Feito:**   
-      - Dario: **Prazo:** 04/06/2021. **Feito: **    
+      - Dario: **Prazo:** 04/06/2021. **Feito:**    
    -  **TODO 2.8 (P3):** Hands-on 02: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 04/06/2021. **Feito:**   
-      - Dario: **Prazo:** 04/06/2021. **Feito: **    
+      - Dario: **Prazo:** 04/06/2021. **Feito:**    
    
    - **TODO 2.9 (P3):** Ler capítulo 7 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
@@ -113,7 +113,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** TBD. **Feito:**   
-      - Dario: **Prazo:** TBD. **Feito: ** 
+      - Dario: **Prazo:** TBD. **Feito:** 
    -  **TODO 2.10:** Hands-on 04: Desafios relacionados ao exemplo fourth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    -  **TODO 2.11:** Hands-on 05: Desafios relacionados ao exemplo fifth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    - **TODO 2.12 (P3):** Ler capítulo 8 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
@@ -122,7 +122,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** TBD. **Feito:**   
-      - Dario: **Prazo:** TBD. **Feito: ** 
+      - Dario: **Prazo:** TBD. **Feito:** 
    -  **TODO 2.13:** Hands-on 04: Desafios relacionados ao exemplo sixth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    
    
