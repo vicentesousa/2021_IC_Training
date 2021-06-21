@@ -103,7 +103,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:10/06/2021**   
       - Dario: **Prazo:** 11/06/2021. **Feito:10/06/2021**    
-   -  **TODO 2.8 (P3):** Hands-on 02: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+   -  **TODO 2.8 (P3):** Hands-on 03: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:10/06/2021**   
       - Dario: **Prazo:** 11/06/2021. **Feito:10/06/2021**    
    
