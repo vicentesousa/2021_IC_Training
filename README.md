@@ -115,7 +115,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 02/07/2021. **Feito:**   
       - Dario: **Prazo:** 02/07/2021. **Feito:** 
    -  **TODO 2.10:** Hands-on 04: Desafios relacionados ao exemplo third.cc parte2 e fourth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
-      - Ricardo: **Prazo:** 25/06/2021. **Feito:**   
+      - Ricardo: **Prazo:** 25/06/2021. **Feito: 25/06/2021**   
       - Dario: **Prazo:** 25/06/2021. **Feito:** 
    -  **TODO 2.11:** Hands-on 05: Desafios relacionados ao exemplo e fifth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 02/07/2021. **Feito:**   
