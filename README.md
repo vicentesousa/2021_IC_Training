@@ -117,17 +117,20 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    -  **TODO 2.10:** Hands-on 04: Desafios relacionados ao exemplo third.cc parte2 e fourth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 25/06/2021. **Feito: 25/06/2021**   
       - Dario: **Prazo:** 25/06/2021. **Feito:25/06/2021** 
-   -  **TODO 2.11:** Hands-on 05: Desafios relacionados ao exemplo e fifth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+   -  **TODO 2.11:** Hands-on 05: Desafios relacionados ao exemplo fifth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 02/07/2021. **Feito: 01/07/2021**   
       - Dario: **Prazo:** 02/07/2021. **Feito: 02/07/2021** 
-   - **TODO 2.12 (P3):** Ler capítulo 8 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
+   -  **TODO 2.12:** Hands-on 05: Desafios relacionados ao exemplo sixth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+      - Ricardo: **Prazo:** 09/07/2021. **Feito: **   
+      - Dario: **Prazo:** 09/07/2021. **Feito: ** 
+   - **TODO 2.13 (P3):** Ler capítulo 8 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
-      - Ricardo: **Prazo:** TBD. **Feito:**   
-      - Dario: **Prazo:** TBD. **Feito:** 
-   -  **TODO 2.13:** Hands-on 04: Desafios relacionados ao exemplo sixth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+      - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
+      - Dario: **Prazo:** 16/07/2021. **Feito:** 
+   -  **TODO 2.14:** Hands-on 04: Desafios relacionados ao exemplo seventh.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    
    
 ### Frente 3: Redes de Comunicações Móveis:
