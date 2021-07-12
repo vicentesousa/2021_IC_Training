@@ -129,7 +129,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
-      - Dario: **Prazo:** 16/07/2021. **Feito:** 
+      - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
    -  **TODO 2.14:** Hands-on 04: Desafios relacionados ao exemplo seventh.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
    
    
