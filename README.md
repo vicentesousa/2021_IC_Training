@@ -135,7 +135,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 02/07/2021. **Feito:**  01/07/2021.  
       - Dario: **Prazo:** 02/07/2021. **Feito:**  02/07/2021.
       - Gabriel: **Prazo:** TBD. **Feito:** ???. 
-   -  **TODO 2.12:** Hands-on 05: Desafios relacionados ao exemplo sixth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+   -  **TODO 2.12:** Hands-on 05: Desafios relacionados ao exemplo sixth.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
       - Ricardo: **Prazo:** 09/07/2021. **Feito:**   
       - Dario: **Prazo:** 09/07/2021. **Feito:** 
       - Gabriel: **Prazo:** TBD. **Feito:** ???. 
@@ -147,7 +147,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
       - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
       - Gabriel: **Prazo:** TBD. **Feito:** ???. 
-   -  **TODO 2.14:** Hands-on 04: Desafios relacionados ao exemplo seventh.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
+   -  **TODO 2.14:** Hands-on 07: Desafios relacionados ao exemplo seventh.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
    
    
 ### Frente 3: Redes de Comunicações Móveis:
