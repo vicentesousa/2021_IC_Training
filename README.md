@@ -169,6 +169,6 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 
    - **TODO 3.3 (P3):** Ler Seção 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
-      - Dario: **Prazo:** 06/08/2021. **Feito:** ????.
+      - Dario: **Prazo:** 06/08/2021. **Feito:05/08/2021** ????.
       - Gabriel: **Prazo:** TBD. **Feito:** ???. 
    
