@@ -113,11 +113,11 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
-      - Gabriel: **Prazo:** TBD. **Feito:** ???. 
+      - Gabriel: **Prazo:** TBD. **Feito:** 05/08/2021. 
    -  **TODO 2.8 (P3):** Hands-on 03: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
-      - Gabriel: **Prazo:** TBD. **Feito:** ???. 
+      - Gabriel: **Prazo:** TBD. **Feito:** 05/08/2021. 
    
    - **TODO 2.9 (P3):** Ler capítulo 7 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
@@ -156,11 +156,11 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 3.1 (P2):** Ler Seção 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.
-      - Gabriel: **Prazo:** TBD. **Feito:** ???. 
+      - Gabriel: **Prazo:** TBD. **Feito:** 30/07/2021. 
    - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
-      - Gabriel: **Prazo:** TBD. **Feito:** ???. 
+      - Gabriel: **Prazo:** TBD. **Feito:** 05/08/2021. 
 
    - **TODO 3.4 (P4):** Ler Seção 2.4 MAC Layer da tese **thesis-bingmann-ns-3-wifi** (<GDrive>\GppCom_Entrance_Training\technical_material)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
