@@ -138,7 +138,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    -  **TODO 2.12:** Hands-on 05: Desafios relacionados ao exemplo sixth.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
       - Ricardo: **Prazo:** 09/07/2021. **Feito:**   
       - Dario: **Prazo:** 09/07/2021. **Feito:** 
-      - Gabriel: **Feito:** ???. 
+      - Gabriel: **Feito:** 03/09/2021
    - **TODO 2.13 (P3):** Ler capítulo 8 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
@@ -146,7 +146,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
       - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
-      - Gabriel: **Feito:** ???. 
+      - Gabriel: **Feito:**03/09/2021. 
    -  **TODO 2.14:** Hands-on 07: Desafios relacionados ao exemplo seventh.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
    
    
