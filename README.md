@@ -146,7 +146,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
       - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
-      - Gabriel: **Feito:**03/09/2021. 
+      - Gabriel: **Feito:** 03/09/2021. 
    -  **TODO 2.14:** Hands-on 07: Desafios relacionados ao exemplo seventh.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
    
    
