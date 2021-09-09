@@ -126,7 +126,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 02/07/2021. **Feito:**  01/07/2021.  
       - Dario: **Prazo:** 02/07/2021. **Feito:**  02/07/2021.
-      - Gabriel:**Feito:** ???. 
+      - Gabriel:**Feito:** 27/08/2021. 
    -  **TODO 2.10:** Hands-on 04: Desafios relacionados ao exemplo third.cc parte2 e fourth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 25/06/2021. **Feito:**  25/06/2021.   
       - Dario: **Prazo:** 25/06/2021. **Feito:** 25/06/2021.
@@ -170,5 +170,5 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - **TODO 3.4 (P3):** Ler Seção 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
       - Dario: **Prazo:** 06/08/2021. **Feito:05/08/2021** ????.
-      - Gabriel: **Feito:** ???.
+      - Gabriel: **Feito:** 06/09/2021.
    
