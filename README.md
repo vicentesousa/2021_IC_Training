@@ -63,6 +63,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - Dario: novo. **Prazo:** 12/04/2021. **Feito:** 13/04/2021. 
    - Gabriel: **Feito:** 20/07/2021. 
    - Eriberto: **Feito:** .
+   - Leandro: **Prazo:** 07/11/2021. **Feito:**.
 - **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_01/f00_hd01.ipynb)
    - Hands-on 01: Github - o básico sobre repositórios
       - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;   
