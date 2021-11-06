@@ -63,19 +63,21 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - Dario: novo. **Prazo:** 12/04/2021. **Feito:** 13/04/2021. 
    - Gabriel: **Feito:** 20/07/2021. 
    - Eriberto: **Feito:** .
-   - Leandro: **Prazo:** 07/11/2021. **Feito:**.
+   - Leandro: **Prazo:** 07/11/2021. **Feito:** 05/11/2021.
 - **TODO 1.2 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_01/f00_hd01.ipynb)
    - Hands-on 01: Github - o básico sobre repositórios
       - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;   
       - Dario: **Prazo:** 12/04/2021. **Feito:** 13/04/2021. **Deadline dos Updates:** 23/04/2021;   
       - Gabriel: **Feito:** 20/07/2021. 
       - Eriberto: **Prazo:** .**Feito:** .
+      - Leandro: **Prazo:** 07/11/2021. **Feito:** 05/11/2021.
 - **TODO 1.3 (P1)**: Fase 00: Preparação do ambiente de trabalho (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_02/f00_hd02.ipynb)
    - Hands-on 02: Básico do Jupyter Notebook
       - Ricardo: **Prazo:** 12/04/2021. **Feito:** 08/04/2021. **Deadline dos Updates:** 23/04/2021;  **Feito:** 20/04/2021.
       - Dario: **Prazo:** 12/04/2021. **Feito:** 14/04/2021. **Deadline dos Updates:** 23/04/2021;  
       - Gabriel: **Feito:** 20/07/2021. 
       - Eriberto: **Prazo:** .**Feito:** .
+      - - Leandro: **Prazo:** 07/11/2021. **Feito:**.
 - **TODO 1.4 (P2)**: Hands-on 03: Instalando o ns-3 e integrando com o Eclipse (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_03/f00_hd03.ipynb)
    - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
    - Dario: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
