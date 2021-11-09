@@ -52,8 +52,8 @@ CXXFLAGS="-Wall -g -O0" ./waf --build-profile=debug --enable-examples --enable-t
 #sudo apt-get install eclipse eclipse-cdt g++
 
 sudo apt install default-jre
-wget https://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/2021-03/R/eclipse-cpp-2021-03-R-linux-gtk-x86_64.tar.gz 
-sudo tar xf eclipse-cpp-2021-03-R-linux-gtk-x86_64.tar.gz -C /opt
+wget https://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/2021-06/R/eclipse-cpp-2021-06-R-linux-gtk-x86_64.tar.gz
+sudo tar xf eclipse-cpp-2021-06-R-linux-gtk-x86_64.tar.gz -C /opt
 sudo ln -s /opt/eclipse/eclipse /usr/local/bin/
 sudo sh -c 'echo [Desktop Entry] >> /usr/share/applications/eclipse.desktop'
 sudo sh -c 'echo Version = 2019‑12 >>  /usr/share/applications/eclipse.desktop'
