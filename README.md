@@ -144,7 +144,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 02/07/2021. **Feito:**  01/07/2021.  
       - Dario: **Prazo:** 02/07/2021. **Feito:**  02/07/2021.
       - Gabriel:**Feito:** 27/08/2021. 
-      - Eriberto: **Prazo:29/11/2021  ** .**Feito:** .
+      - Eriberto: **Prazo:29/11/2021  ** .**Feito:20/11/2021** .
    -  **TODO 2.10:** Hands-on 04: Desafios relacionados ao exemplo third.cc parte2 e fourth.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 25/06/2021. **Feito:**  25/06/2021.   
       - Dario: **Prazo:** 25/06/2021. **Feito:** 25/06/2021.
@@ -167,7 +167,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
       - Ricardo: **Prazo:** 16/07/2021. **Feito:**   
       - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
-      - Eriberto: **Prazo:29/11/2021** .**Feito:** .
+      - Eriberto: **Prazo:29/11/2021** .**Feito:20/11/2021** .
    -  **TODO 2.14:** Hands-on 07: Desafios relacionados ao exemplo seventh.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
    
    
