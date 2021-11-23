@@ -102,6 +102,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 30/04/2021. **Feito:** 30/04/2021.
       - Gabriel: **Feito:** 22/07/2021. 
       - Eriberto: **Prazo:11/10/2021** .**Feito:09/10/2021** .
+      - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
    - **TODO 2.3 (P3):** Hands-on 01: Desafios relacionados ao exemplo first.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:** 29/04/2021.  
       - Dario: **Prazo:** 21/05/2021. **Feito:** 30/04/2021. 
@@ -123,13 +124,13 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.    
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
-      - Leandro: **Prazo:** 23/11/2021. **Feito:
+      - Leandro: **Prazo:** 23/11/2021. **Feito:23/11/2021
    -  **TODO 2.6 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 04/05/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.        
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
-      - Leandro: **Prazo:** 23/11/2021. **Feito:
+      - Leandro: **Prazo:** 23/11/2021. **Feito:23/11/2021
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
@@ -178,13 +179,13 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 3: Redes de Comunicações Móveis:
 - Conhecendo o Wi-Fi
 - **Roteiro de leituras:**
-   - **TODO 3.1 (P2):** Ler Seção 14.1: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.1 (P2):** Ler Seção 14.2: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.
       - Gabriel: **Feito:** 30/07/2021. 
       - Eriberto: **Prazo:** 12/10/2021. **Feito:** 12/10/2021.
       - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
-   - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.2 (P3):** Ler Seção 14.3: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
       - Gabriel: **Feito:** 05/08/2021. 
@@ -197,7 +198,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Gabriel: **Feito:** 31/08/2021. 
       - Eriberto: **Prazo:** 29/11/2021. **Feito:** .
 
-   - **TODO 3.4 (P3):** Ler Seção 14.3: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
       - Dario: **Prazo:** 06/08/2021. **Feito:05/08/2021** ????.
       - Gabriel: **Feito:** 06/09/2021.
