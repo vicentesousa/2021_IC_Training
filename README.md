@@ -117,16 +117,19 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 11/06/2021. **Feito:** 09/06/2021.  
       - Gabriel: **Feito:** 20/08/2021. 
       - Eriberto: **Prazo: 12/11/2021** .**Feito:12/11/2021** .
+      - Leandro: **Prazo:** 24/11/2021. **Feito:**.
    - **TODO 2.5 (P3):** Fazer e entender o exemplo second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 04/05/2021.   
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.    
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
+      - Leandro: **Prazo:** 23/11/2021. **Feito:
    -  **TODO 2.6 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 04/05/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.        
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
+      - Leandro: **Prazo:** 23/11/2021. **Feito:
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
@@ -186,6 +189,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
       - Gabriel: **Feito:** 05/08/2021. 
       - Eriberto: **Prazo:** 12/10/2021. **Feito:** 12/10/2021.
+      - Leandro: **Prazo:** 24/11/2021. **Feito:
 
    - **TODO 3.3 (P4):** Ler Seção 2.4 MAC Layer da tese **thesis-bingmann-ns-3-wifi** (<GDrive>\GppCom_Entrance_Training\technical_material)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
