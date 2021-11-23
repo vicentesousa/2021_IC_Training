@@ -96,7 +96,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
          - Dario: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** 30/04/2021.
          - Gabriel: **Feito:** 20/07/2021. 
          - Eriberto: **Prazo:27/09/2021** .**Feito:25/09/2021** .
-         - Leandro: **Prazo:** 18/11/2021 .**Feito:** .
+         - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
    - **TODO 2.2 (P3):** Fazer e entender o exemplo first.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\ns-3_course>```.
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** 30/04/2021.
@@ -107,6 +107,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 21/05/2021. **Feito:** 30/04/2021. 
       - Gabriel: **Feito:** 22/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
+      - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
    - **TODO 2.4 (P3):** Ler capítulos 6 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
@@ -179,7 +180,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.
       - Gabriel: **Feito:** 30/07/2021. 
       - Eriberto: **Prazo:** 12/10/2021. **Feito:** 12/10/2021.
-      - Leandro: **Prazo:** 18/11/2021 .**Feito:** .
+      - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
    - **TODO 3.2 (P3):** Ler Seção 14.2: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
