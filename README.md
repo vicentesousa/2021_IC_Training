@@ -118,29 +118,31 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 11/06/2021. **Feito:** 09/06/2021.  
       - Gabriel: **Feito:** 20/08/2021. 
       - Eriberto: **Prazo: 12/11/2021** .**Feito:12/11/2021** .
-      - Leandro: **Prazo:** 24/11/2021. **Feito:**.
+      - Leandro: **Prazo:** 24/11/2021. **Feito:** 24/11/2021.
    - **TODO 2.5 (P3):** Fazer e entender o exemplo second.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 04/05/2021.   
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.    
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
-      - Leandro: **Prazo:** 23/11/2021. **Feito:23/11/2021
+      - Leandro: **Prazo:** 23/11/2021. **Feito:** 23/11/2021
    -  **TODO 2.6 (P3):** Hands-on 02: Desafios relacionados ao exemplo second.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 04/05/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 06/06/2021.        
       - Gabriel: **Feito:** 28/07/2021. 
       - Eriberto: **Prazo:15/11/2021** .**Feito:12/11/2021** .
-      - Leandro: **Prazo:** 23/11/2021. **Feito:23/11/2021
+      - Leandro: **Prazo:** 23/11/2021. **Feito:** 23/11/2021
    - **TODO 2.7 (P3):** Fazer e entender o exemplo third.cc (acompanhar a leitura no [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)), ver as apresentações do minicurso de cada exemplo. O minicurso está na pasta ```<GoogleDrive>/GppCom_Entrance_Training\technical_material\books>```.
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
       - Gabriel: **Feito:** 05/08/2021. 
       - Eriberto: **Prazo:29/11/2021** .**Feito:15/11/2021** .
+      - Leandro: **Prazo:** 23/11/2021. **Feito:** 24/11/2021
    -  **TODO 2.8 (P3):** Hands-on 03: Desafios relacionados ao exemplo third.cc [link](https://github.com/vicentesousa/ns3-intermediate-training)
       - Ricardo: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.  
       - Dario: **Prazo:** 11/06/2021. **Feito:** 10/06/2021.   
       - Gabriel: **Feito:** 05/08/2021. 
       - Eriberto: **Prazo:29/11/2021** .**Feito:15/11/2021** .
+      - Leandro: **Prazo:** 23/11/2021. **Feito:** 24/11/2021
    - **TODO 2.9 (P3):** Ler capítulo 7 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
