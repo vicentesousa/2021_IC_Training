@@ -190,13 +190,14 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
       - Gabriel: **Feito:** 05/08/2021. 
       - Eriberto: **Prazo:** 12/10/2021. **Feito:** 12/10/2021.
-      - Leandro: **Prazo:** 24/11/2021. **Feito:
+      - Leandro: **Prazo:** 24/11/2021. **Feito:** 23/11/2021
 
    - **TODO 3.3 (P4):** Ler Seção 2.4 MAC Layer da tese **thesis-bingmann-ns-3-wifi** (<GDrive>\GppCom_Entrance_Training\technical_material)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:20/05/2021** 
       - Gabriel: **Feito:** 31/08/2021. 
       - Eriberto: **Prazo:** 29/11/2021. **Feito:** .
+      - Leandro: **Prazo:** 28/11/2021. **Feito:** 
 
    - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
