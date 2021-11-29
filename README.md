@@ -198,7 +198,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:20/05/2021** 
       - Gabriel: **Feito:** 31/08/2021. 
-      - Eriberto: **Prazo:** 29/11/2021. **Feito:** .
+      - Eriberto: **Prazo:** 29/11/2021. **Feito: 27/11/2021** .
       - Leandro: **Prazo:** 28/11/2021. **Feito:** 27/11/2021
 
    - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
