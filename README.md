@@ -166,7 +166,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Ricardo: **Prazo:** 09/07/2021. **Feito:**   
       - Dario: **Prazo:** 09/07/2021. **Feito:** 
       - Gabriel: **Feito:** 03/09/2021
-      - Eriberto: **Prazo:06/12/2021** .**Feito:** .
+      - Eriberto: **Prazo:06/12/2021** .**Feito:27/11/2021** .
    - **TODO 2.13 (P3):** Ler capítulo 8 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
       - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
       - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
@@ -176,7 +176,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 16/07/2021. **Feito:11/07/2021** 
       - Eriberto: **Prazo:29/11/2021** .**Feito:20/11/2021** .
    -  **TODO 2.14:** Hands-on 07: Desafios relacionados ao exemplo seventh.cc [link](https://nbviewer.jupyter.org/github/vicentesousa/2021_IC_Training/blob/main/fase_01/HD_07/f01_hd07.ipynb)
-   
+      - Eriberto: **Prazo:29/11/2021** .**Feito:20/11/2021**
    
 ### Frente 3: Redes de Comunicações Móveis:
 - Conhecendo o Wi-Fi
@@ -199,7 +199,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Dario: **Prazo:** 21/05/2021. **Feito:20/05/2021** 
       - Gabriel: **Feito:** 31/08/2021. 
       - Eriberto: **Prazo:** 29/11/2021. **Feito:** .
-      - Leandro: **Prazo:** 28/11/2021. **Feito:** 
+      - Leandro: **Prazo:** 28/11/2021. **Feito:** 27/11/2021
 
    - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
