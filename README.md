@@ -1,7 +1,7 @@
 # Bolsistas de IC 2021
 - Bolsista 01: RICARDO QUEIROZ DE FARIAS HENRIQUE SILVA
 - Bolsista 02: DARIO GUILHERME DE MACEDO
-- Bolsista 03: Marília (marilia.muniz.124@ufrn.edu.br)
+- Bolsista 03: Marília 
 - Aluno de Mestrado: GABRIEL MAIA DE MACEDO
 - Aluno de Mestrado: Eriberto de Souto Silva **(em 20/09/2021)**
 - Orientador: Vicente Angelo de Sousa Junior
