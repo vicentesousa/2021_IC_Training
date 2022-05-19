@@ -89,10 +89,10 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
    - **TODO 2.1 (P2):** Ler capítulos 1, 2, 4 e 5 do tutorial do ns-3 e trazer dúvidas para discutir em reunião;
-      - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.33/tutorial/ns-3-tutorial.pdf)
-      - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.33/models/ns-3-model-library.pdf)
-      - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.33/manual/ns-3-manual.pdf)
-      - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-33/documentation/)
+      - **Material Principal:** an introduction into downloading, setting up, and using builtin models [Tutorial ns-3](https://www.nsnam.org/docs/release/3.36/tutorial/ns-3-tutorial.pdf)
+      - **Material Complementar:**  documentation on individual protocol and device models that build on the ns-3 core [Model Library do ns-3](https://www.nsnam.org/docs/release/3.36/models/ns-3-model-library.pdf)
+      - **Material Complementar:** an in-depth coverage of the architecture and core of ns-3 [Manual do ns-3](https://www.nsnam.org/docs/release/3.36/manual/ns-3-manual.pdf)
+      - Todo esse material pode ser encontrado em [https://www.nsnam.org/releases/ns-3-33/documentation/](https://www.nsnam.org/releases/ns-3-36/documentation/)
          - Ricardo: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** 29/04/2021.  
          - Dario: **Prazo:** 23/04/2021. **Novo Prazo:** 30/04/2021. **Feito:** 30/04/2021.
          - Gabriel: **Feito:** 20/07/2021. 
