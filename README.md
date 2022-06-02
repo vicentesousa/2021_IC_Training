@@ -85,6 +85,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - Gabriel: **Feito:** 20/07/2021. 
    - Eriberto: **Prazo:10/11/2021** .**Feito:10/11/2021** .
    - Leandro: **Prazo:** 09/11/2021. **Feito:** 09/11/2021.
+   - Marilia: **Prazo:** 02/06/2022. **Feito:** 02/06/2022.
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
