@@ -86,6 +86,8 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
    - Eriberto: **Prazo:10/11/2021** .**Feito:10/11/2021** .
    - Leandro: **Prazo:** 09/11/2021. **Feito:** 09/11/2021.
    - Marilia: **Prazo:** 02/06/2022. **Feito:** 02/06/2022.
+- **TODO 1.5 (P2)**: Hands-on 04: Instalando o ns-3 e integrando com o VScode (https://github.com/vicentesousa/2021_IC_Training/blob/main/fase_00/HD_04/Tutorial_Instala%C3%A7%C3%A3o_Vscode_ns3_cmake.ipynb)
+   - Marilia: **Prazo:** . **Feito:** .
 ### Frente 2: prototipagem com ns-3:
 - Conhecer o ns-3 (leitura do Tutorial)
 - **Roteiro de leituras:**
